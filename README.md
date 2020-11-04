@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[GH Stats](https://github-readme-stats.vercel.app/api?username=andrzejnovak&theme=default&show_icons=true)
+![GH Stats](https://github-readme-stats.vercel.app/api?username=andrzejnovak&theme=default&show_icons=true)
